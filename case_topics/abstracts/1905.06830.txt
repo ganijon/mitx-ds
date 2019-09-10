@@ -1,0 +1,1 @@
+We show that a perfect obstruction theory of a $\mathbb{G}_\text{m}$-gerbe determines a semi-perfect obstruction theory of its base, which is perfect if the gerbe is quasi-compact and affine-pointed. This allows us to relate virtual classes of the gerbe and its base.

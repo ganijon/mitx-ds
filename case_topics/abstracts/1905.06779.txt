@@ -1,0 +1,1 @@
+We show that fractional powers of general sectorial operators on Banach spaces can be obtained by the harmonic extension approach. Moreover, for the corresponding second order ordinary differential equation with incomplete data describing the harmonic extension we prove existence and uniqueness of a bounded solution (i.e. of the harmonic extension).

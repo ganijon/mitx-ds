@@ -1,0 +1,1 @@
+We prove new Beckner-Sobolev type inequalities on compact Kähler manifolds with positive Ricci curvature. As an application, we obtain a diameter upper bound that improves the Bonnet-Myers bound.
