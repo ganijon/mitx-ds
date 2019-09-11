@@ -1,1 +1,0 @@
-Parallel-in-time methods have shown success for reducing the simulation time of many time-dependent problems. Here, we consider applying the multigrid-reduction-in-time (MGRIT) algorithm to a voltage-driven eddy current model problem.

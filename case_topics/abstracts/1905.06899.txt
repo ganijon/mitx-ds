@@ -1,1 +1,0 @@
-Using C. Fefferman's embedding of a charge space in a measure space allows us to apply standard interpolation theorems to prove norm inequalities for Besicovitch almost periodic functions. This yields an analogue of Paley's Inequality for the Fourier coefficients of periodic functions.

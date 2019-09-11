@@ -1,1 +1,0 @@
-In this paper the spherical quasi-convexity of quadratic functions on spherically self-dual sets is studied. Sufficient conditions for spherical quasi-convexity on self-dual sets are presented. A partial characterization of spherical quasi-convexity on spherical Lorentz sets is given and some examples are provided.

@@ -1,1 +1,0 @@
-We study lines through the origin of finite-dimensional complex vector spaces that enjoy a doubly transitive automorphism group. This paper, the second in a series, classifies those lines that exhibit almost simple symmetries. To perform this classification, we introduce a general recipe involving Schur covers to recover doubly transitive lines from their automorphism group.

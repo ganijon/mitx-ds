@@ -1,4 +1,0 @@
-For $p \in (1,N)$ and $Ω\subseteq \mathbb{R}^N$ open, the Beppo-Levi space $\mathcal{D}^{1,p}_0(Ω)$ is the completion of $C_c^{\infty}(Ω)$ with respect to the norm $\left( \int_Ω|\nabla u|^p \right)^ \frac{1}{p}.$ Using the $p$-capacity, we define a norm and then identify the Banach function space $\mathcal{H}(Ω)$ with the set of all $g$ in $L^1_{loc}(Ω)$ that admits the following Hardy-Sobolev type inequality:
-  \begin{eqnarray*}
-  \int_Ω |g| |u|^p \leq C \int_Ω |\nabla u|^p, \forall\; u \in \mathcal{D}^{1,p}_0(Ω),
-  \end{eqnarray*} for some $C>0.$ Further, we characterize the set of all $g$ in $\mathcal{H}(Ω)$ for which the map $G(u)= \int_Ω g |u|^p$ is compact on $\mathcal{D}^{1,p}_0(Ω)$. We use a variation of the concentration compactness lemma to give a sufficient condition on $g\in \mathcal{H}(Ω)$ so that the best constant in the above inequality is attained in $\mathcal{D}^{1,p}_0(Ω)$.

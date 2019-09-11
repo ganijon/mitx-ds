@@ -1,0 +1,14 @@
+/abstracts
+/corpus
+
+### Python
+__pycache__/
+*.py[co]
+*$py.class
+pip-log.txt
+pip-delete-this-directory.txt
+.python-version
+/pip-failure.log
+
+### VS Code
+/.vscode
